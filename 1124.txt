@@ -1,3 +1,0 @@
-http://download.windowsupdate.com/d/msdownload/update/software/secu/2021/04/windows8.1-kb5001403-x64_7f15c4b281f38d43475abb785a32dbaf0355bad5.msu
-
-https://www.mozilla.org/en-US/firefox/all/#product-desktop-esr
